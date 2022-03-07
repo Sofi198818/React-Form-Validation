@@ -1,0 +1,44 @@
+.main-body {
+  padding: 20px;
+}
+
+.text-error {
+  font-weight: 600;
+  color: red;
+}
+
+input {
+  outline: none;
+  color: rgb(212, 136, 136);
+}
+
+.form {
+  width: 50%;
+  margin: 0 auto;
+  color: rgb(196, 129, 129);
+}
+
+.next {
+  background-color: black;
+  width: 25%;
+  color: white;
+  padding: 5px 7px;
+  border-radius: 5px;
+}
+
+.next:hover {
+  background-color: rgb(129, 48, 48);
+}
+
+.submit {
+  background-color: black;
+  color: white;
+  width: 25%;
+  padding: 5px 7px;
+  margin-top: 8px;
+  border-radius: 5px;
+}
+
+.submit:hover {
+  background-color: rgb(129, 48, 48);
+}
